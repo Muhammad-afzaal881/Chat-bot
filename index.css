@@ -1,0 +1,25 @@
+input{
+    width: 96%;
+    height: 50px;
+    margin-left: -10px;
+}
+button{
+    height: 54px;
+    width: 50px;
+}
+.message{
+    width: 101%;
+    height: 580px;
+    margin-top: -10px;
+    margin-left: -10px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+.message p{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.message ul{
+    text-align: right;
+    font-size: 20px;
+}
